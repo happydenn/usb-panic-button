@@ -1,0 +1,17 @@
+{
+  "name": "usb-panic-button",
+  "version": "0.1.0",
+  "description": "A simple module for interfacing with USB Panic Button hardware.",
+  "main": "index.js",
+  "keywords": [
+    "usb",
+    "panic",
+    "button"
+  ],
+  "author": "Denny Tsai <denny@hpd.io>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "usb": "^1.2.0"
+  }
+}
