@@ -1,6 +1,6 @@
 {
   "name": "usb-panic-button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple module for interfacing with USB Panic Button hardware.",
   "main": "index.js",
   "keywords": [
