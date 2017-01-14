@@ -8,6 +8,7 @@
     "panic",
     "button"
   ],
+  "repository": "happydenn/usb-panic-button",
   "author": "Denny Tsai <denny@hpd.io>",
   "license": "ISC",
   "dependencies": {
