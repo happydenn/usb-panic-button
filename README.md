@@ -1,6 +1,12 @@
-# panic-button
+# usb-panic-button
 
 A node.js module for interfacing with the cool-looking USB Panic Button hardware like [this one](https://www.firebox.com/USB-Panic-Button/p1742).
+
+## Installation
+
+```
+npm install usb-panic-button
+```
 
 ## Dependencies
 
