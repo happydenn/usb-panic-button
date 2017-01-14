@@ -1,6 +1,6 @@
 {
   "name": "usb-panic-button",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple module for interfacing with USB Panic Button hardware.",
   "main": "index.js",
   "keywords": [
@@ -8,7 +8,11 @@
     "panic",
     "button"
   ],
+  "homepage": "https://github.com/happydenn/usb-panic-button",
   "repository": "happydenn/usb-panic-button",
+  "bugs": {
+    "url": "https://github.com/happydenn/usb-panic-button/issues"
+  },
   "author": "Denny Tsai <denny@hpd.io>",
   "license": "ISC",
   "dependencies": {
